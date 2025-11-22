@@ -1,0 +1,4 @@
+﻿code,name,last_date,last_close,signal,confirmed_signal,signal_score,entry,stop,target,risk_reward_ratio,position_shares,position_percent,position_multiplier,rsi,sma_short,sma_long,atr,market_trend,market_suggestion
+002957,股票002957,2025-11-19,19.99,hold,hold,0,,,,,,,1.0,43.607755452145504,21.5085,20.1158,0.7557142857142853,strong_bull,适合做多
+600595,股票600595,2025-11-19,6.6,hold,hold,1,,,,,,,1.0,50.261963879432,6.88,6.0132,0.4450000000000002,strong_bull,适合做多
+000818,股票000818,2025-11-19,21.51,hold,hold,0,,,,,,,1.0,44.98254392834369,21.591500000000003,22.518800000000002,0.48999999999999994,strong_bear,谨慎操作，建议观望
