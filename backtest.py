@@ -16,6 +16,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 plt.rcParams["font.family"] = ["SimHei"]
 plt.rcParams["axes.unicode_minus"] = False
+# 选在ak前缀的不同策略
+# 其中应包含 fetch_daily_akshare, generate_signals_for_df_enhanced
 from ak_detail import (
     fetch_daily_akshare,
     generate_signals_for_df_enhanced,
